@@ -1,6 +1,8 @@
 SomeStorageMod [![Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ===============
 
+**NAME WIP!!**  
+
 **Currently not stable and under heavy development!**  
 Considering AE2 does not plan to update anytime soon for 1.9 (or 1.8.9) we have decided to give out take on it. Things are a little different however, so this is NOT a "clone". Even some of the core concepts are different.
 
@@ -26,7 +28,7 @@ __For [IntelliJ]__
 ## Building
 __Note:__ If you do not have [Gradle] installed then use ./gradlew for Unix systems or Git Bash and gradlew.bat for Windows systems in place of any 'gradle' command.
 
-In order to build MateriaMuto you simply need to run the `gradle` command. You can find the compiled JAR file in `./build/libs` labeled similarly to 'MateriaMuto-x.x.x.jar'.
+In order to build SomeStorageMod you simply need to run the `gradle` command. You can find the compiled JAR file in `./build/libs` labeled similarly to 'SomeStorageMod-x.x.x.jar'.
 
 ## Contributing
 Are you a talented programmer looking to contribute some code? We'd love the help!
